@@ -68,10 +68,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## :earth_asia: Find me else where
 </br>
 <p align="center">
-<a href="https://linkedin.com/in/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashutosh2803" height="50" width="50" /></a>
-<a href="https://codesandbox.com/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashutosh2803" height="50" width="50" /></a>
-<a href="https://medium.com/@ashuisalive" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashuisalive" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ashutosh2803" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/iamrohit-kumar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamrohit-kumar" height="50" width="50" /></a>
+<a href="https://codesandbox.io/dashboard/home?workspace=c86bc87e-f547-4814-822f-1c578f97bd7f" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="coder605" height="50" width="50" /></a>
+<a href="https://medium.com/@chpts986" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/coderandlover" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="coderandlover" height="50" width="50" /></a>
 </p>
 
 
