@@ -64,25 +64,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     </p>
   
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/Iamkumarrohit/github-readme-activity-graph"><img alt="Abhishek Sardagi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Iamkumarrohit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/iamrohit-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+   
+## :earth_asia: Find me else where
+</br>
+<p align="center">
+<a href="https://linkedin.com/in/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashutosh2803" height="50" width="50" /></a>
+<a href="https://codesandbox.com/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashutosh2803" height="50" width="50" /></a>
+<a href="https://medium.com/@ashuisalive" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashuisalive" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ashutosh2803" height="50" width="50" /></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Iamkumarrohit/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Iamkumarrohit">
-</a>
- 
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
