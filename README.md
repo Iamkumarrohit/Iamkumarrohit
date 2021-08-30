@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<a href="https://github.com/Iamkumarrohit?tab=followers"><img src="https://img.shields.io/github/followers/Iamkumarrohit?label=Followers&style=social" alt="GitHub Badge"></a> 
 
 <p align= "center">
 
@@ -83,4 +84,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://github.com/Iamkumarrohit/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Iamkumarrohit">
 </a>
-<a href="https://github.com/Iamkumarrohit?tab=followers"><img src="https://img.shields.io/github/followers/Iamkumarrohit?label=Followers&style=social" alt="GitHub Badge"></a> 
+ 
