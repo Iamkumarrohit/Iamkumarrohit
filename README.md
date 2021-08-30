@@ -14,15 +14,15 @@
 
 ## 🙋‍♂️ About Me
 
--🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
  
--🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+- 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
 - 💬 Ask me about **React, NodeJs, Data Structures**
 
--🥅 *2021 Goals :* Learning new things and contribute more  
+- 🥅 *2021 Goals :* Learning new things and contribute more  
 
- -📫 You can reach me at **mailto:rohitkumar09111999@gmail.com**
+ - 📫 You can reach me   **mailto:rohitkumar09111999@gmail.com**
 
 ## 🛠 Interests/Skills
 
