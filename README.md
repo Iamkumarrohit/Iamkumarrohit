@@ -44,7 +44,7 @@
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/Iamkumarrohit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/iamrohitkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
     <a href="https://github.com/Iamkumarrohit">
@@ -74,7 +74,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/minakshi-das-71363217a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = " https://www.linkedin.com/in/iamrohit-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
