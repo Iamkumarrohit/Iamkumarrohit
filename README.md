@@ -22,7 +22,7 @@
 
 - 🥅 *2021 Goals :* Learning new things and contribute more  
 
- - 📫 You can reach me   **mailto:rohitkumar09111999@gmail.com**
+ - 📫 You can reach me   **rohitkumar09111999@gmail.com**
 
 ## 🛠 Interests/Skills
 
