@@ -74,7 +74,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## Connect with me:
 <p align="left">
 
-<a href = " https://www.linkedin.com/in/iamrohit-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/iamrohit-kumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
