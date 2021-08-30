@@ -3,26 +3,26 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Iamkumarrohit&label=Profile%20views&color=0e75b6&style=flat" alt="Iamkumarrohit" /> </p>
 
 
-<p align= "center">
+<!-- <p align= "center">
 
 <img src="https://img.shields.io/badge/JS-Javascript-red"/>
 <img src="https://img.shields.io/badge/React-React-blue"/>
 <img src="https://img.shields.io/badge/Node-node-green"/>
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
-</p>
+</p> -->
 
 ## 🙋‍♂️ About Me
 
- 🌱 I’m currently learning **MERN Stack**
+-🌱 I’m currently learning **MERN Stack**
  
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
 - 💬 Ask me about **React, NodeJs, Data Structures**
 
-🥅 *2021 Goals :* Learning new things and contribute more  
+-🥅 *2021 Goals :* Learning new things and contribute more  
 
- 📫 You can reach me at [chat](mailto:rohitkumar09111999@gmail.com) 
+ -📫 You can reach me at **mailto:rohitkumar09111999@gmail.com**
 
 ## 🛠 Interests/Skills
 
